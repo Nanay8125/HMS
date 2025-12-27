@@ -1,0 +1,7 @@
+{
+  "name": "KingsHMS",
+  "description": "A comprehensive hotel management system featuring real-time room tracking, booking management, guest analytics, and an integrated AI assistant for operational insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
